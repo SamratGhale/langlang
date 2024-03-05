@@ -1,0 +1,6 @@
+BNF
+It's a recursive rule
+| means or
+recursive rule needs a base rule
+base rule is number is already recognized symbol in language i.e T_INTLIT
+terminal symbol is recognized by grammer (it has a defination)
